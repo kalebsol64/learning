@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+
+# Node (for later)
+node_modules/
+.env.local
+
+# Secrets
+*.key
+*.pem
